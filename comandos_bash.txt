@@ -1,5 +1,6 @@
 ls -> lista Arquivos
 cd -> Move entre diretórios 
 pwd -> Mostra diretório de trabalho
+cat -> Exibe conteúdo do arquivo 
 rm -rf -> exclue a pasta
 git init . -> ativa o git
