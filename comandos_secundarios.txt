@@ -7,3 +7,6 @@ segunda linha
 #Comandos mais genéricos 
 
 - Comandos estranhos
+
+- mais comandos 
+aushuasha
