@@ -10,4 +10,6 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
-Confira tudo o que temos no nosso Youtube. É Grátis!
+Confira tudo o que temos no nosso Youtube. É Grátis! Segue o link: 
+
+[urso Git 2025](https://youtube.com/@teomewhy) 
